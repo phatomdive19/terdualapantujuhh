@@ -1,0 +1,4 @@
+baseURL = "https://musicliveroot.vercel.app"
+languageCode = "en-us"
+title = "Sheet Music Easy"
+theme = "hugo-theme-minos"
